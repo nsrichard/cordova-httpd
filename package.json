@@ -1,0 +1,31 @@
+{
+  "name": "cordova-httpd",
+  "version": "1.0.0",
+  "description": "CorHttpd: embeded httpd for cordova",
+  "cordova": {
+    "id": "cordova-httpd",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsrichard/cordova-httpd.git"
+  },
+  "keywords": [
+    "cordova-httpd"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "nsrichard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nsrichard/cordova-httpd/issues"
+  },
+  "homepage": "https://github.com/nsrichard/cordova-httpd"
+}
